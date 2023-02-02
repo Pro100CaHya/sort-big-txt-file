@@ -1,0 +1,13 @@
+{
+  "name": "sorting-big-file",
+  "version": "1.0.0",
+  "description": "Sorting big .txt file in Node.js",
+  "main": "index.js",
+  "author": "Pro100CaHya",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
